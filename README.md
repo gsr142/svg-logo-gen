@@ -1,5 +1,6 @@
 # SVG-Logo-Generator
 
+[Click here to see a video demo](https://drive.google.com/file/d/1sP12daAJ9T03qKV_m0CKX7WBuvRS1d0I/view)
 ## Table of Contents:
 1. [Description](#description)
 2. [Installation](#installation)
